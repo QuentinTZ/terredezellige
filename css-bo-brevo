@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MaPolice';
+    src: url('https://github.com/QuentinTZ/terredezellige/blob/997eb8869963fff227d54f05ebce40e37e8f0e46/Shelby%20Regular.woff') format('woff2'),
+         url('https://github.com/QuentinTZ/terredezellige/blob/997eb8869963fff227d54f05ebce40e37e8f0e46/Shelby%20Regular.woff') format('woff'),
+         url('https://github.com/QuentinTZ/terredezellige/blob/997eb8869963fff227d54f05ebce40e37e8f0e46/Shelby%20Regular.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
