@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'MaPolice';
-    src: url('https://github.com/QuentinTZ/terredezellige/raw/refs/heads/main/Shelby%20Regular.woff') format('woff2'),
-         url('https://github.com/QuentinTZ/terredezellige/raw/refs/heads/main/Shelby%20Regular.woff') format('woff'),
-         url('https://github.com/QuentinTZ/terredezellige/raw/refs/heads/main/Shelby%20Regular.woff') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
